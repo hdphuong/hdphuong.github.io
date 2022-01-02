@@ -67,7 +67,7 @@ a.readmore:hover, a.readmore:focus, a.readmore:active {
     background-color: #966FD6;
 }
 .ch-info-prof {
-    background: rgba(76, 173, 252, 0.6);
+    background: #966FD6;
 }
 #profile .col-md-6 h1 {
     color: #966FD6;
@@ -200,7 +200,7 @@ h2.resp-accordion:hover .hi-icon, .no-touch .hi-icon-effect-5 .hi-icon:hover {
     color:#fff; 
 }
 .widget-profil  p {
-    color:#fff !important;
+    color:#FFEFFF !important;
 }
 .widget-profil #profile_desc {
     border-bottom: 1px solid #d898ec;

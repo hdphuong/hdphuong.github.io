@@ -2870,3 +2870,10 @@ li h6{
 div.ppt {
     display: none !important;
 }
+
+
+#profile-quote {
+    color: #FFEFFF;
+    border-bottom-style: dashed;
+    border-width: 0.05px;
+}
