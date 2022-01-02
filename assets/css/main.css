@@ -60,7 +60,8 @@ body {
     line-height: 25px;
     color: #333333;
     overflow-x: hidden;
-    background-image: url(../images/bg/bg5.png);
+    /* background-image: url(../images/bg/bg5.png); */
+    background-color: #FBBEDE;
     padding: 0;
 }
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
@@ -1009,7 +1010,8 @@ ul.about {
 
 .widget-profil #profile_social
 {
-    padding-top: 15px;
+    padding-top: 3px;
+    padding-bottom: 16px;
 }
 
 #profile_social a{
@@ -1022,8 +1024,7 @@ ul.about {
     border-style: solid;
     text-align: center;
     font-size: 24px;
-    float: left;
-    display: block;
+    display: inline-block;
     color : #fff;
     -webkit-transition: all .3s ease-in;
     -moz-transition: all .3s ease-in;
