@@ -1009,7 +1009,8 @@ ul.about {
 
 .widget-profil #profile_social
 {
-    padding-top: 15px;
+    padding-top: 5px;
+    padding-bottom: 15px;
 }
 
 #profile_social a{
@@ -1022,8 +1023,7 @@ ul.about {
     border-style: solid;
     text-align: center;
     font-size: 24px;
-    float: left;
-    display: block;
+    display: inline-block;
     color : #fff;
     -webkit-transition: all .3s ease-in;
     -moz-transition: all .3s ease-in;

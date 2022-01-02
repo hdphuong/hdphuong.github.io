@@ -1,12 +1,13 @@
 
 title: My Resume
-url: 'http://junlulocky.com'
-baseurl: '/mae.github.io'
+## url: 'http://junlulocky.com'
+url: 'https://hdphuong.github.io'
+baseurl: '/hdphuong.github.io'
 
 
 
 # Profile information
-yourname: 
+yourname: Mae Vuong
 title: 'CompSci & Finance Student'
 location: UNSW Sydney
 
