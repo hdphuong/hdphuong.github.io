@@ -1311,15 +1311,16 @@ ul.about {
 }
 .skillbar-title {
     position: absolute;
+    z-index: 1;
     top: 0;
     left: 0;
     font-size: 11px;
     color: #fff;
-    text-transform: capitalize;
+    text-transform: inherit;
 }
 .skillbar-title span {
     display: block;
-    background: rgba(0, 0, 0, 0.1);
+    background: inherit;
     padding: 0 20px;
     height: 22px;
     line-height: 22px;
@@ -1335,7 +1336,7 @@ ul.about {
     font-size: 11px;
     height: 22px;
     line-height: 22px;/*35*/
-    color: #444;
+    color: rgb(49, 48, 48);
     color: rgba(0, 0, 0, 0.4);
 }
 

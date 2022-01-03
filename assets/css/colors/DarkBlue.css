@@ -150,9 +150,12 @@ h2.resp-accordion:hover .hi-icon, .no-touch .hi-icon-effect-5 .hi-icon:hover {
 .modal-header {
     background: #966FD6;
 }
-.skillbar-title, .skillbar-bar {
-    background:  #ceb6f4;
+.skillbar-bar {
+    background:  #966FD6;
+    opacity: 68%;
 }
+
+
 .portfolio .label-bg, #filters li span.active {
     background: #966FD6;
 }
