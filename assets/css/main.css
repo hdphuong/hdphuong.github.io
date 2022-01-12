@@ -393,7 +393,7 @@ h2.resp-accordion:first-child {
     position: relative;
     top: 2px;
 }
-p {
+p, a#ptnk {
     font-size: 14px;
     line-height: 22px;
     text-align: left;
@@ -401,6 +401,7 @@ p {
     color: #999 !important;
     font-family: 'Lato', sans-serif;
 }
+
 .active-hi-icon {
     background: #04B2E8 !important;
     border: 1px solid #04B2E8 !important;
