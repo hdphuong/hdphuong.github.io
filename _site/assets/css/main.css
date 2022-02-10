@@ -643,6 +643,9 @@ h2.resp-accordion:hover {
     position: relative !important;
     background: #666;
     cursor:pointer;
+    border-style: solid;
+    border-color: black;
+    border-radius: 3px;
 }
 
 .portfolio img {
