@@ -144,7 +144,7 @@ h2.resp-accordion:hover .hi-icon, .no-touch .hi-icon-effect-5 .hi-icon:hover {
 .nbs-flexisel-inner {
     border: 5px solid #966FD6;
 }
-#nb_post, .reply, .tag, .info-post i.glyphicon, .info i.glyphicon, i.fa-quote-left {
+#nb_post, .reply, .tag, .info-post i.glyphicon, .info i.glyphicon, i.fa-quote-left, i.fa-heart, i.fa-book, i.fa-paperclip {
     color: #966FD6 !important;
 }
 .modal-header {
